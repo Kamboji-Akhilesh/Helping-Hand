@@ -1,0 +1,90 @@
+{
+   "checksum": "d734b78e4a13f10df1d66e2c9e422508",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13328899800999861",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13328899800999866",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13092841784981305",
+            "date_last_used": "0",
+            "guid": "624ca9a5-5a5f-429d-9def-43d1f34cdb21",
+            "id": "6",
+            "name": "Education Platform | School Management | Coaching Centers Managament | College Management",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.conceptwaves.com/"
+         }, {
+            "date_added": "13087144655321026",
+            "date_last_used": "0",
+            "guid": "15c7fa80-b7a9-4a6f-a5d3-a35a728c52cc",
+            "id": "7",
+            "name": "Nekeodkelrlw tab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://facebookrklwkeje%21a/"
+         }, {
+            "date_added": "13086000120329081",
+            "date_last_used": "0",
+            "guid": "f9390b51-0bf8-4c49-9bc6-f2fa07d546f7",
+            "id": "8",
+            "name": "www.mediafire.com/?q14vngfnx0jb81j",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.mediafire.com/?q14vngfnx0jb81j"
+         }, {
+            "date_added": "13081670917112435",
+            "date_last_used": "0",
+            "guid": "ba0f5b3f-df7c-4bdf-8942-3bbdc0ac3fa2",
+            "id": "9",
+            "name": "Welcome to Google Chrome",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://welcome/"
+         }, {
+            "date_added": "13156519782620180",
+            "date_last_used": "0",
+            "guid": "b02fccc2-0882-4357-ac2f-b067662e25d6",
+            "id": "10",
+            "name": "Downloads",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome-native://downloads/"
+         } ],
+         "date_added": "13328899800999867",
+         "date_last_used": "0",
+         "date_modified": "13156519782620180",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCEcHFuaGAQAAEgAgASoYWXZFTThVSzJIWUdMVVJsVC9aYkcxQT09oAYOEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGNmZGFlZGUzLWYzMjctNWM4Zi04NWI4LTEyMmUyMTViNmVmYhgAIAAoADC88LKzsjA4rKO2jvMvQKyjto7zL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMGEyZjEwODYtZmNmMC01MTYzLTg3ZjktNjc5MDcwYmYxZTM5GAAgACgAMLzwsrOyMDi7o7aO8y9Au6O2jvMvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKoAQgKEqMBChx4N212KzhIcGxNckdmM2QzUkQ4RHlRdFdqMnc9EiRiMDJmY2NjMi0wODgyLTQzNTctYWMyZi1iMDY3NjYyZTI1ZDYYACAAKAAwyoacy9IvONDlto7zL0DQ5baO8y9KHHQwd0FjMUtUb1FoOVZUZ2VWYmdhOTZ0QXkzQT1aHyId7k5hYVNYbXdxZVRWZnhiNXpBRGNONkRTWUZQdz1lAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRiZDg3ZTM3Ni03NzdjLTUzMTAtOWMyMS1hZDk0ZWVlYmFjNzMYACAAKAAwvPCys7IwOOqjto7zL0Dqo7aO8y9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqcBCAYSogEKHHh0ejJMb3pob0FFb2lmeHdObXdRNzZwa1Z6ST0SJDYyNGNhOWE1LTVhNWYtNDI5ZC05ZGVmLTQzZDFmMzRjZGIyMRgAIAAoADDKhpzL0i84o+W2jvMvQKPlto7zL0ocV0tuMDVVdW1walJLaGFNV1NnZGI4eXBhRlNnPVoeIhxxTFNQdTBLUXNpK0VZQ0s3MXJrOXJOQkxNd0E9ZQAAAAASqAEICBKjAQocd0pUaDkya3hFeGVxb0FYdUJlNGdRRnVDNjRFPRIkZjkzOTBiNTEtMGJmOC00YzQ5LTliYzYtZjJmYTA3ZDU0NmY3GAAgACgAMMqGnMvSLzjH6LaO8y9Ax+i2jvMvShxhdXRJaUVTZHM4aXZPT0RWNFovY29BMHFMdlE9Wh8iHblXNXZWNkVmRU9raGtmMlVISEsrRXYxckpYUXM9ZQAAAAASqAEICRKjAQocaFZEZktGUG5QSGxNOWtSSWsrRWJYT2w4RzA4PRIkYmEwZjViM2YtZGY3Yy00YmRmLTg5NDItM2JiZGMwYWMzZmEyGAAgACgAMMqGnMvSLziJ6LaO8y9Aiei2jvMvShxiaVdEK3NnT1RpR3BrV2VJYmhiZlk0NXRWQTg9Wh8iHdxUM2QwQ1Q1SzJKWlFZTDlHQmJSWUx6bUg2RVk9ZQAAAAASpwEIBxKiAQoccXNrdzR5OVh2K2ZYVXdTaVFoNURTY3Mxb3lBPRIkMTVjN2ZhODAtYjdhOS00YTZmLWE1ZDMtYTM1YTcyOGM1MmNjGAAgACgAMMqGnMvSLziD5baO8y9Ag+W2jvMvShx4cXhENU53cDVtcis0SzdqdFNyT0pvdERhVzA9Wh4iHHJSMlNxOWZMb2NTS3RWbEFsNStkVW03dG5rcz1lAAAAADAAOAA=",
+   "version": 1
+}
