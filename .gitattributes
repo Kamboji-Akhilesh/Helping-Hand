@@ -1,5 +1,6 @@
 *.java linguist-detectable=false 
 *.js linguist-detectable=false 
+*.d linguist-detectable=false 
 *.dart linguist-language=Dart 
 *.dart linguist-detectable=true 
 android/* linguist-vendored 
